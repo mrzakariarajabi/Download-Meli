@@ -1,4 +1,4 @@
-name: "Download-Meli"
+name: "Download-Meli-Onefile"
 
 on:
   workflow_dispatch:
